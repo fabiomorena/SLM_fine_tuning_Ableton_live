@@ -25,7 +25,7 @@ wheels/
 *.egg
 MANIFEST
 
-# Jupyter Notebook checkpoints
+# Jupyter Notebook checkpoint
 .ipynb_checkpoints
 
 # Virtual Environments
