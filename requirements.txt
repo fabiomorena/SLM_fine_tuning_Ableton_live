@@ -1,0 +1,27 @@
+# Core ML & Fine-Tuning
+# ---------------------------
+torch
+transformers
+datasets
+accelerate
+bitsandbytes
+peft
+trl
+unsloth
+
+
+# API & Deployment
+# ---------------------------
+fastapi
+uvicorn[standard]
+
+# Data Handling & Utilities
+# ---------------------------
+pandas
+numpy
+python-dotenv
+scikit-learn
+
+# Development & Notebooks
+# ---------------------------
+
