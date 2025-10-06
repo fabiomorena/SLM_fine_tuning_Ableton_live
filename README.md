@@ -1,7 +1,7 @@
 
 -----
 
-# 🎵 SLM Fine-Tuning für Musikproduktion
+#  SLM Fine-Tuning für Musikproduktion
 
 ## Einleitung
 
@@ -11,7 +11,7 @@ Es werden modernste Techniken wie **LoRA** und **QLoRA** sowie die Frameworks **
 
 -----
 
-## 🚀 Projektziele
+##  Projektziele
 
 Die primären Ziele dieses Projekts umfassen:
 
@@ -24,7 +24,7 @@ Die primären Ziele dieses Projekts umfassen:
 
 -----
 
-## 🛠️ Technologie-Stack
+##  Technologie-Stack
 
 | Komponente | Technologie/Tool | Zweck |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Die primären Ziele dieses Projekts umfassen:
 
 -----
 
-## 🎯 Schlüsselschritte zur Durchführung
+##  Schlüsselschritte zur Durchführung
 
 ### 1\. PEFT-Grundlagen
 
