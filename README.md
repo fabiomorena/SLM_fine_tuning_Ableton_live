@@ -1,14 +1,15 @@
 
 -----
 
-````markdown
+
 # Fine-Tuning eines Sprachmodells für Ableton Live
 
-Dieses Projekt dient dem Fine-Tuning eines kleinen Sprachmodells (Small Language Model, SLM) für Aufgaben, 
-die im Zusammenhang mit Ableton Live stehen.
-Das Ziel ist es, ein spezialisiertes Modell zu entwickeln, das [fügen Sie hier das genaue Ziel ein, 
-z.B. MIDI-Melodien generiert,
-Gerätenamen vorschlägt oder Ableton-spezifische Anleitungen erstellt].
+Dieses Projekt dient dem Fine-Tuning eines kleinen Sprachmodells (Small Language Model, SLM)
+für Aufgaben, die im Zusammenhang mit Ableton Live stehen.
+
+Das Ziel ist es, ein spezialisiertes Modell zu entwickeln, das [fügen Sie hier das genaue Ziel ein,
+z.B. MIDI-Melodien generiert, Gerätenamen vorschlägt oder Ableton-spezifische
+Anleitungen erstellt].
 
 ---
 ## Installation
