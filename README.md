@@ -102,4 +102,4 @@ Die Modellleistung wird nicht nur über den Trainings-Loss, sondern auch anhand 
 ├── evaluation/
 │   └── eval_script.py                 # Skript zur Modellbewertung und Metrikenberechnung
 └── README.md                          # Dieses Dokument
-```
+``
