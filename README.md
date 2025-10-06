@@ -4,8 +4,10 @@
 ````markdown
 # Fine-Tuning eines Sprachmodells für Ableton Live
 
-Dieses Projekt dient dem Fine-Tuning eines kleinen Sprachmodells (Small Language Model, SLM) für Aufgaben, die im Zusammenhang mit Ableton Live stehen.
-Das Ziel ist es, ein spezialisiertes Modell zu entwickeln, das [fügen Sie hier das genaue Ziel ein, z.B. MIDI-Melodien generiert,
+Dieses Projekt dient dem Fine-Tuning eines kleinen Sprachmodells (Small Language Model, SLM) für Aufgaben, 
+die im Zusammenhang mit Ableton Live stehen.
+Das Ziel ist es, ein spezialisiertes Modell zu entwickeln, das [fügen Sie hier das genaue Ziel ein, 
+z.B. MIDI-Melodien generiert,
 Gerätenamen vorschlägt oder Ableton-spezifische Anleitungen erstellt].
 
 ---
@@ -68,13 +70,15 @@ python infer.py --prompt "Erstelle einen Drum-Beat im House-Stil"
 
 ## Mitwirken
 
-Beiträge zur Verbesserung dieses Projekts sind willkommen. Wenn Sie Vorschläge haben oder Fehler finden, öffnen Sie bitte einen Issue oder erstellen Sie einen Pull Request.
+Beiträge zur Verbesserung dieses Projekts sind willkommen. Wenn Sie Vorschläge haben oder Fehler finden, 
+öffnen Sie bitte einen Issue oder erstellen Sie einen Pull Request.
 
 -----
 
 ## Lizenz
 
-Dieses Projekt ist unter der [Name der Lizenz, z.B. MIT] Lizenz lizenziert. Weitere Informationen finden Sie in der `LICENSE`-Datei.
+Dieses Projekt ist unter der [Name der Lizenz, z.B. MIT] Lizenz lizenziert. 
+Weitere Informationen finden Sie in der `LICENSE`-Datei.
 
 ```
 ```
