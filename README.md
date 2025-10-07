@@ -5,7 +5,10 @@
 # Fine-Tuning eines Sprachmodells für Ableton Live
 
 Dieses Projekt dient dem Fine-Tuning eines kleinen Sprachmodells (Small Language Model, SLM)
-für Aufgaben, die im Zusammenhang mit Ableton Live stehen.
+für Aufgaben, die im Zusammenhang mit Ableton Live stehen. Während des Projekts werden verschiedene
+SLMs (TinyLlama, Phi-3, Gemma-2) trainiert und getestet, um unterschiedliche finetune Methoden 
+bewerten zu können.
+
 
 Das Ziel ist es, ein spezialisiertes Modell zu entwickeln, mit dem ein virtueller Assistent für die 
 Musikproduktion mit Ableton realisierbar wird.
